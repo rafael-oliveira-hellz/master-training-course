@@ -1,0 +1,105 @@
+.header {
+    margin: 0 2.05em;
+    height: 7vh;
+    background-color: #FFFFFF;
+}
+
+.top {
+    height: 5vh;
+    background-color: #f58634;
+}
+
+.header h1 {
+    color: #000000;
+    text-align: center;
+    line-height: 6vh;
+}
+
+.content1 {
+    height: 25vh;
+    background-color: #373435;
+}
+
+.content2 {
+    height: 30vh;
+    background-color: #FFFFFF;
+    margin: 0 2.05em 7.05em 2.05em;
+}
+
+.content2 > div:last-child {
+    border: none;
+}
+
+.content2 > div {
+    padding-right: 0;
+}
+
+.content3 {
+    height: 35vh;
+    background-color: #e6e7e8;
+    border: 1px solid #74635e;
+    margin: 0 2.05em 2.05em 2.05em;
+}
+
+.content4 {
+    height: 25vh;
+    background-color: #3e4095;
+}
+
+.square1 {
+    width: 90%;
+    height: 20rem;   
+    margin-top: 2.5em;
+    border-radius: 0.625rem;
+    background-color: #00A859;
+}
+
+.square2 {
+    width: 90%;
+    height: 20rem;
+    margin-top: 2.5em;
+    border-radius: 0.625rem;
+    background-color: #ed3237;
+}
+
+.square3 {
+    width: 90%;
+    height: 20rem;
+    margin-top: 2.5em;
+    border-radius: 0.625rem;
+    background-color: #ec268f;
+}
+
+.square4 {
+    width: 90%;
+    height: 20rem; 
+    margin-top: 2.5em;
+    border-radius: 0.625rem;
+    background-color: #84716b;
+}
+
+.grey {
+    background-color: #2f4f4f;
+}
+
+.blue {
+    background-color: #1706ac;
+}
+
+.footer {
+    height: 11vh;
+    background-color: #373435;
+}
+
+
+/* MARGINS */
+
+.margin-lr { /* Margin Left e Right */
+    margin-left: 3em;
+    margin-right: 3em;
+}
+
+.m0 {
+    margin-left: 0;
+    margin-right: 0;
+}

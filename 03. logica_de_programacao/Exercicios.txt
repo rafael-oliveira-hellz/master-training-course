@@ -1,0 +1,12 @@
+1 -  Faça um algoritmo para receber o nome de um produto e apresentar o nome deste produto na saída.
+
+2 - Faça um algoritmo para receber o salário de um funcionário e apresentar o salário na saída.
+
+3 - Faça um algoritmo para receber a quantidade de laranjas e o valor unitário de cada laranja, o algoritmo deve apresentar ambas informações na saída.
+
+
+Para casa
+
+1 - Faça um algoritmo para receber o nome de um produto e o valor unitário deste produto. O algoritmo deve apresentar ambas informações na saída.
+
+2 -  faça um algoritmo para receber o nome de um iflho o nome de um pai e o nome da mãe. O algoritmo deve apresentar na saída respectivamente o nome do pai, o nome da mãe e o nome do filho.

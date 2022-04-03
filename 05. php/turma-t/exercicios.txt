@@ -1,0 +1,93 @@
+08/10/2021
+
+1 - Faça um aplicação PHP para receber a idade o nome e a idade de uma pessoa, o algoritmo deve informar se a pessoa é maior ou menor de idade, se a pessoa for menor de idade o algoritmo deve informar se a pessoa é uma criança, um adolescente ou um bebe. Se a pessoa for maior de idade o algoritmo deve informar que esta pessoa já pode contribuir para o INSS.
+
+Extras
+1) - Crie um algoritmo que receba um número digitado pelo usuário e verifique se esse valor é positivo, negativo ou igual a zero. A saída deve ser: "Valor Positivo", "Valor Negativo" ou "Igual a Zero".
+
+2) Crie um algoritmo que solicite a entrada de um número, e exiba a tabuada de 0 a 10 de acordo com o número solicitado, ex: 
+Entrada = 4
+Saída = 4 X 0 = 0...4 X 10 = 40.
+
+3) Crie um algoritmo que solicite um número, e faça o cálculo fatorial do mesmo, exiba o resultado na tela. Ex:
+Entrada = 3
+Processamento: (3 * 2) * 1
+Saída: 6
+
+4) Crie um programa em que o usuário escolha uma operação (soma, subtração, multiplicação ou divisão). Crie duas caixas de texto para receber 2 números. Realize a operação escolhida em cada um dos números. 
+
+5) Solicite a entrada de um número e descubra se um número digitado é par ou ímpar. 
+
+6) Faça um algoritmo PHP que receba os valores A e B, imprima-os em ordem crescente em relação aos seus valores. Exemplo, para A=5, B=4. Você deve imprimir na tela: "4 5".
+
+7) Faça um algoritmo em PHP onde verifica se o valor da variável A é maior ou menor que o valor da variável B. A mensagem a ser impressa deve ser “A maior que B” ou “A menor que B”.
+
+8) Crie um algoritmo para calcular a média final de um aluno, para isso, solicite a entrada de três notas e as insira em um array, por fim, calcule a média geral. Caso a média seja maior ou igual a seis, exiba aprovado, caso contrário, exiba reprovado. Exiba também a média final calculada.
+Ex: N1 = 5 | N2 = 10 | N3 = 4 | MG = 6,33 [Aprovado]
+
+9) Crie um algoritmo que pergunte ao usuário seu nome e sua idade. Em seguida verifique se a idade é maior ou menor que 18, exiba da seguinte forma: Fulano é maior de 18 e tem XX Anos ou Fulano não é maior de 18 e tem XX Anos.
+
+10) Ler um número inteiro entre 1 e 12 e escrever o mês correspondente. Caso o número seja fora desse intervalo, informar que não existe mês com este número.
+
+****************************************************************************************************
+
+Lista de Exercícios: Básico do PHP
+
+Escreva um script que pede o raio de um círculo, e em seguida exiba o perímetro e área do círculo.
+Para saber o valor do pi, use: M_PI (ele armazena o valor de pi)
+
+Faça um script que peça um número e então mostre a mensagem O número informado foi [número].
+
+Faça um script que peça dois números e imprima a soma.
+
+Faça um script que peça 3 notas de um aluno e mostra sua média.
+
+Faça um script que converta metros para centímetros.
+
+Faça um script que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
+
+Faça um script que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês.
+
+Faça um script que peça a temperatura em graus Farenheit, transforme e mostre a temperatura em graus Celsius.
+C = (5 * (F-32) / 9).
+
+Faça um script que peça a temperatura em graus Celsius, transforme e mostre em graus Farenheit.
+
+Faça um script que peça 2 números inteiros e um número real. Calcule e mostre:
+
+o produto do dobro do primeiro com metade do segundo.
+a soma do triplo do primeiro com o terceiro.
+o terceiro elevado ao cubo.
+
+Tendo como dados de entrada a altura de uma pessoa, construa um script que calcule seu peso ideal, usando a seguinte fórmula: (72.7*altura) - 58
+
+Tendo como dado de entrada a altura (h) de uma pessoa, construa um script que calcule seu peso ideal, utilizando as seguintes fórmulas:
+
+Para homens: (72.7*h) - 58
+Para mulheres: (62.1*h) - 44.7
+
+João Papo-de-Pescador, homem de bem, comprou um microcomputador para controlar o rendimento diário de seu trabalho. Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um script que leia a variável peso (peso de peixes) e calcule o excesso. Gravar na variável excesso a quantidade de quilos além do limite e na variável multa o valor da multa que João deverá pagar. Imprima os dados do script com as mensagens adequadas.
+
+Faça um script que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês. Calcule e mostre o total do seu salário no referido mês, sabendo-se que são descontados 11% para o Imposto de Renda, 8% para o INSS e 5% para o sindicato, faça um script que nos dê:
+
+salário bruto.
+quanto pagou ao INSS.
+quanto pagou ao sindicato.
+o salário líquido.
+calcule os descontos e o salário líquido, conforme a tabela abaixo:
++ Salário Bruto : R$
+- IR (11%) : R$
+- INSS (8%) : R$
+- Sindicato ( 5%) : R$
+= Salário Liquido : R$
+
+Obs.: Salário Bruto - Descontos = Salário Líquido.
+
+Faça um script para uma loja de tintas. O script deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 3 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00. Informe ao usuário a quantidades de latas de tinta a serem compradas e o preço total.
+Faça um script para uma loja de tintas. O script deverá pedir o tamanho em metros quadrados da área a ser pintada. Considere que a cobertura da tinta é de 1 litro para cada 6 metros quadrados e que a tinta é vendida em latas de 18 litros, que custam R$ 80,00 ou em galões de 3,6 litros, que custam R$ 25,00.
+Informe ao usuário as quantidades de tinta a serem compradas e os respectivos preços em 3 situações:
+comprar apenas latas de 18 litros;
+comprar apenas galões de 3,6 litros;
+misturar latas e galões, de forma que o preço seja o menor. Acrescente 10% de folga e sempre arredonde os valores para cima, isto é, considere latas cheias.
+
+Faça um script que peça o tamanho de um arquivo para download (em MB) e a velocidade de um link de Internet (em Mbps), calcule e informe o tempo aproximado de download do arquivo usando este link (em minutos).
